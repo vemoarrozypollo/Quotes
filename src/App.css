@@ -1,0 +1,36 @@
+*{
+  font-family: 'Aboreto';
+}
+.container{
+  background :rgb(240, 204, 204);
+  margin: auto;
+  width:800px;
+  margin-top: 150px;
+  padding: auto;
+}
+h1{
+  padding-left: 30px;
+  font-size: 30px;
+}
+h2{
+  padding-left: 80%;
+  padding-right: auto;
+}
+.quote{
+  font-size:60px;
+  padding-right: 10px;
+}
+.card-author{
+  font-style: italic;
+}
+.card-button{
+  border-radius: 50% ;
+  font-size: 40px;
+  margin-left:90%;
+  margin-bottom: 20px;
+  border-color: white;
+}
+.icons{
+  color:white;
+ 
+}
